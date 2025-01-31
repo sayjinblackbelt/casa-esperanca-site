@@ -26,7 +26,36 @@ Este projeto consiste no desenvolvimento de um site informativo para a Casa Espe
 
 ## 🗂️ Estrutura do Projeto
 
-casa-esperanca-site/ ├── index.html├── styles.css├── script.js├── README.md└── assets/ ├── images/ │ ├── logo.png│ ├── banner.jpg│ ├── oficina_informatica.jpg │ ├── oficina_barbearia.jpg │ ├── oficina_eletrica.jpg │ ├── oficina_panificacao.jpg │ └── oficina_confeitaria.jpg └── documents/ ├── estatuto.pdf├── relatorio_financeiro.pdf └── termo_colaboracao.pdf
+casa-esperanca-site/
+├── index.html
+├── about.html
+├── contact.html
+├── css/
+│   ├── styles.css
+│   ├── reset.css
+│   └── (outros arquivos CSS se necessário)
+├── js/
+│   ├── main.js
+│   └── (outros arquivos JS se necessário)
+├── assets/
+│   ├── images/
+│   │   ├── logo.png
+│   │   ├── banner.jpg
+│   │   └── (demais imagens)
+│   ├── documents/
+│   │   ├── estatuto.pdf
+│   │   ├── relatorio_financeiro.pdf
+│   │   └── termo_colaboracao.pdf
+│   └── fonts/
+│       └── (arquivos de fontes)
+├── components/
+│   ├── header.html
+│   ├── footer.html
+│   ├── navbar.html
+│   └── (outros componentes reutilizáveis)
+├── README.md
+├── LICENSE
+└── .gitignore
 
 ## 🖥️ Instalação
 
