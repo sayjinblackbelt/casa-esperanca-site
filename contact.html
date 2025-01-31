@@ -1,1 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Contato - Casa Esperança</title>
+  <meta name="description" content="Entre em contato com a Casa Esperança para saber mais sobre nossas atividades e como contribuir.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Link para o CSS -->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Inclusão do Header -->
+  <!--#include virtual="components/header.html" -->
+
+  <!-- Conteúdo Principal -->
+  <main>
+    <!-- Seção Contato -->
+    <section class="contato">
+      <div class="container">
+        <h1>Fale Conosco</h1>
+        <p>Entre em contato para mais informações sobre nossas oficinas, parcerias ou como contribuir.</p>
+        <div class="contato-info">
+          <p><strong>Endereço:</strong> Rua Francisco Teodoro, 138 - Vila Industrial, Campinas/SP</p>
+          <p><strong>Email:</strong> contato@phe.org.br</p>
+          <!-- Se aprovado, inclui o telefone -->
+          <!-- <p><strong>Telefone:</strong> (19) 99996-4096</p> -->
+        </div>
+        <!-- Formulário de Contato -->
+        <!-- Funcionalidade de envio requer backend -->
+        <form action="#" method="post">
+          <div class="form-group">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required>
+          </div>
+          <div class="form-group">
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <div class="form-group">
+            <label for="mensagem">Mensagem:</label>
+            <textarea id="mensagem" name="mensagem" rows="5" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Enviar Mensagem</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- Inclusão do Footer -->
+  <!--#include virtual="components/footer.html" -->
+
+  <!-- Scripts -->
+  <script src="js/main.js"></script>
+</body>
+</html>
 
