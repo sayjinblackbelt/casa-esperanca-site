@@ -28,6 +28,36 @@ HTML + CSS + JavaScript
 Reconstrução e refatoração para arquitetura estática
 ```
 
+## 💼 Contexto profissional
+
+O projeto está relacionado a uma experiência profissional real iniciada em **2024**, envolvendo comunicação digital e administração de presença institucional online.
+
+Além da manutenção e administração da página, as atividades incluíram:
+
+- administração de **Instagram, Facebook e WhatsApp**;
+- acompanhamento de **mensagens diretas, chats e canais de atendimento digital**;
+- produção e publicação de conteúdos;
+- criação de fotografias e vídeos;
+- planejamento de postagens e campanhas;
+- divulgação de eventos e atividades;
+- criação de chamadas para ação (**CTAs**);
+- comunicação com diferentes públicos;
+- organização de narrativas e campanhas utilizando princípios de **storytelling**.
+
+A experiência envolvia transformar atividades, eventos e iniciativas em conteúdos digitais capazes de **informar, gerar interesse, fortalecer a comunicação e incentivar a participação do público**.
+
+> Para preservar a privacidade e evitar exposição institucional, este repositório utiliza identidade e conteúdos demonstrativos genéricos. Não representa o site ou os canais oficiais de uma organização específica.
+
+## 🧠 Comunicação e Storytelling
+
+A produção de conteúdo não era limitada à publicação isolada de posts. As ações buscavam organizar informações e experiências em narrativas que ajudassem o público a compreender o contexto e se conectar com as atividades divulgadas.
+
+Um fluxo recorrente era:
+
+**Evento ou atividade → Registro → Seleção de informações → Storytelling → Conteúdo visual → Publicação → Interação → Chamada para ação**
+
+Esse processo combinava comunicação visual, fotografia, vídeo, mídias digitais e estratégias de engajamento.
+
 ## 🎯 Objetivos
 
 - praticar desenvolvimento front-end;
@@ -37,7 +67,27 @@ Reconstrução e refatoração para arquitetura estática
 - organizar um projeto web simples e reproduzível;
 - documentar decisões e evolução técnica.
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e competências
+
+### Desenvolvimento web
+
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+
+### Comunicação digital
+
+- gestão de redes sociais;
+- produção de conteúdo;
+- fotografia;
+- produção e edição de vídeo;
+- planejamento editorial;
+- storytelling;
+- campanhas digitais;
+- chamadas para ação;
+- cobertura e divulgação de eventos;
+- comunicação e interação com o público.
 
 - HTML5
 - CSS3
