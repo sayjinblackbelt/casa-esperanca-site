@@ -199,6 +199,15 @@ O projeto foi generalizado para portfólio e não deve receber dados pessoais, c
 
 ## 👨‍💻 Autor
 
-**Filipe Gimenes de Morais**
+**Filipe G Morais**
 
 Projeto profissional iniciado em 2024 e posteriormente reorganizado como estudo e portfólio de desenvolvimento web, reconstrução de interfaces e arquitetura estática.
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/institutional-site-prototype
