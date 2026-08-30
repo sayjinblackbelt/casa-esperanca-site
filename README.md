@@ -33,8 +33,6 @@ casa-esperanca-site/
 │   └── styles.css
 ├── js/
 │   └── main.js
-├── components/
-│   └── footer.html
 └── README.md
 ```
 
@@ -59,6 +57,10 @@ Depois, abra `index.html` no navegador ou utilize uma extensão como **Live Serv
 - [x] Melhorar estrutura básica de acessibilidade e navegação.
 - [x] Melhorar identidade visual e responsividade.
 - [ ] Publicar versão demonstrativa no GitHub Pages.
+
+## 🔍 Revisão de consistência
+
+A versão atual não depende mais de WordPress, PHP ou Server Side Includes (SSI). Os arquivos de componentes antigos e referências quebradas foram removidos para manter o projeto compatível com hospedagem estática.
 
 ## 👨‍💻 Autor
 
