@@ -56,8 +56,9 @@ Depois, abra `index.html` no navegador ou utilize uma extensão como **Live Serv
 - [x] Adicionar interação JavaScript básica.
 - [ ] Revisar conteúdo institucional com informações autorizadas.
 - [ ] Adicionar imagens próprias ou autorizadas.
-- [ ] Melhorar acessibilidade.
-- [ ] Publicar versão demonstrativa.
+- [x] Melhorar estrutura básica de acessibilidade e navegação.
+- [x] Melhorar identidade visual e responsividade.
+- [ ] Publicar versão demonstrativa no GitHub Pages.
 
 ## 👨‍💻 Autor
 
