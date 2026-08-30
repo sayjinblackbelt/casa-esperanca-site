@@ -58,6 +58,65 @@ Um fluxo recorrente era:
 
 Esse processo combinava comunicação visual, fotografia, vídeo, mídias digitais e estratégias de engajamento.
 
+## 🎓 Educação e inclusão digital
+
+Além das atividades de comunicação digital e administração online, a experiência profissional também envolveu atuação direta como educador em informática.
+
+Foram ministradas aulas de **informática básica para pessoas em situação de vulnerabilidade social**, incluindo participantes em situação de rua e, em muitos casos, com baixa escolaridade. O trabalho pedagógico priorizava uma abordagem prática, gradual e acessível, voltada à autonomia no uso da tecnologia.
+
+Os conteúdos incluíam:
+
+- fundamentos de informática e uso do computador;
+- sistema operacional, arquivos e organização digital;
+- digitação e navegação;
+- criação e edição de documentos;
+- recursos do **Microsoft Office**;
+- **LibreOffice**;
+- **Google Workspace**, quando os participantes possuíam acesso a uma conta Google;
+- utilização prática da tecnologia em situações do cotidiano.
+
+## 🧰 Laboratório de informática e suporte técnico
+
+A atuação também incluiu apoio técnico e manutenção do laboratório de informática e dos computadores disponibilizados aos participantes.
+
+O ambiente possuía aproximadamente **20 computadores**, exigindo atividades como:
+
+- manutenção e verificação básica dos equipamentos;
+- preparação dos computadores para uso;
+- identificação e resolução de problemas comuns;
+- organização do ambiente tecnológico;
+- apoio aos usuários durante a utilização dos computadores.
+
+Também era realizado **apoio à equipe técnica e aos profissionais da organização** em consultas relacionadas a informática, ferramentas digitais e uso de recursos de escritório.
+
+## 📄 Empregabilidade e criação de currículos
+
+Outra frente de atuação foi a realização de **workshops de elaboração e criação de currículos**.
+
+As atividades abordavam:
+
+- organização de informações pessoais e profissionais;
+- identificação de competências;
+- estruturação de experiências;
+- criação e revisão de currículos;
+- preparação de versões adequadas para impressão.
+
+Ao final das atividades, os participantes recebiam uma **versão impressa do currículo**, permitindo que o resultado do aprendizado tivesse aplicação prática imediata.
+
+## ⚙️ Automação para geração de currículos
+
+A partir dessa necessidade prática, também foi desenvolvida uma automação utilizando:
+
+**Google Forms → Google Sheets → Google Apps Script**
+
+O fluxo permitia estruturar as informações fornecidas pelos participantes e apoiar a geração organizada de currículos para utilização no contexto da organização.
+
+Esse tipo de solução conectou três dimensões importantes da experiência profissional:
+
+**Educação → necessidade real → automação tecnológica**
+
+A automação representa uma aplicação prática de ferramentas acessíveis do Google Workspace para reduzir trabalho manual, organizar informações e apoiar atividades de empregabilidade.
+
 ## 🎯 Objetivos
 
 - praticar desenvolvimento front-end;
