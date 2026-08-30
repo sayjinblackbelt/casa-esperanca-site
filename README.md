@@ -1,31 +1,34 @@
-# 🏠 Casa Esperança — Protótipo de Site Institucional
+# 🏗️ Institutional Site Prototype
 
-> Reconstrução estática de uma versão de testes de um site institucional anteriormente administrado em WordPress.
+> Protótipo estático de site institucional desenvolvido para estudo de front-end, reconstrução de interfaces e publicação em hospedagem estática.
 
 ## 📌 Contexto
 
-Este repositório registra uma tentativa de criar uma versão independente para testes e desenvolvimento. A dificuldade principal do projeto original era a dependência da estrutura e do ambiente do WordPress.
+Este projeto nasceu de uma experiência prática de administração de conteúdo e tentativa de criação de uma versão independente para testes de um site institucional.
 
-A versão atual foi reorganizada como um projeto estático para facilitar:
+A versão atual foi reconstruída sem dependência de WordPress, PHP ou Server Side Includes (SSI), permitindo estudar uma arquitetura simples com HTML, CSS e JavaScript.
 
-- estudo de HTML, CSS e JavaScript;
-- testes locais;
-- evolução incremental;
-- demonstração em portfólio;
-- futura publicação em hospedagem estática.
+> **Observação:** este repositório é um protótipo demonstrativo. Não representa o site oficial de uma instituição específica.
 
-> **Observação:** este repositório é um protótipo demonstrativo e não deve ser interpretado como o site oficial atual da instituição.
+## 🎯 Objetivos
+
+- praticar desenvolvimento front-end;
+- reconstruir uma interface institucional de forma independente;
+- aplicar princípios de responsividade e acessibilidade;
+- organizar um projeto estático simples;
+- preparar o projeto para publicação em hospedagem estática.
 
 ## 🛠️ Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
+- Git e GitHub
 
 ## 🗂️ Estrutura
 
 ```text
-casa-esperanca-site/
+institutional-site-prototype/
 ├── index.html
 ├── about.html
 ├── contact.html
@@ -41,29 +44,30 @@ casa-esperanca-site/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/sayjinblackbelt/casa-esperanca-site.git
+git clone https://github.com/sayjinblackbelt/institutional-site-prototype.git
 ```
 
-Depois, abra `index.html` no navegador ou utilize uma extensão como **Live Server** no VS Code.
+Depois, abra `index.html` diretamente no navegador ou utilize uma extensão como **Live Server** no VS Code.
 
-## 🚧 Evolução planejada
+## 🚧 Evolução
 
-- [x] Remover dependências de SSI.
-- [x] Criar layout estático funcional.
-- [x] Adicionar CSS responsivo.
-- [x] Adicionar interação JavaScript básica.
-- [ ] Revisar conteúdo institucional com informações autorizadas.
-- [ ] Adicionar imagens próprias ou autorizadas.
-- [x] Melhorar estrutura básica de acessibilidade e navegação.
-- [x] Melhorar identidade visual e responsividade.
-- [ ] Publicar versão demonstrativa no GitHub Pages.
+- [x] Reconstrução estática
+- [x] Navegação entre páginas
+- [x] Layout responsivo
+- [x] Interação JavaScript básica
+- [x] Acessibilidade inicial
+- [x] Remoção de dependências de SSI
+- [x] Identidade visual do protótipo
+- [ ] Revisão final de conteúdo demonstrativo
+- [ ] Adição de imagens próprias ou autorizadas
+- [ ] Publicação e validação final no GitHub Pages
 
-## 🔍 Revisão de consistência
+## 🔐 Privacidade
 
-A versão atual não depende mais de WordPress, PHP ou Server Side Includes (SSI). Os arquivos de componentes antigos e referências quebradas foram removidos para manter o projeto compatível com hospedagem estática.
+O projeto não deve receber dados pessoais, credenciais, documentos institucionais restritos ou conteúdo proprietário. Para exemplos públicos, utilizar apenas dados fictícios ou devidamente autorizados.
 
 ## 👨‍💻 Autor
 
 **Filipe Gimenes de Morais**
 
-Projeto preservado e reorganizado como registro de aprendizagem em desenvolvimento web, administração de conteúdo e reconstrução de interfaces.
+Projeto de estudo e portfólio voltado a desenvolvimento web, reconstrução de interfaces e publicação de aplicações estáticas.
