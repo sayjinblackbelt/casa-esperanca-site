@@ -1,5 +1,7 @@
 # 🏗️ Institutional Site Prototype
 
+🇧🇷 Português | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md)
+
 > Protótipo estático de site institucional desenvolvido em 2024 e reconstruído para estudo, experimentação e portfólio de front-end.
 
 ## 📌 Contexto
@@ -148,9 +150,9 @@ A automação representa uma aplicação prática de ferramentas acessíveis do 
 - cobertura e divulgação de eventos;
 - comunicação e interação com o público.
 
-- HTML5
-- CSS3
-- JavaScript
+
+### Publicação e versionamento
+
 - Git e GitHub
 - GitHub Pages
 
