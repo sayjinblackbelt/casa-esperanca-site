@@ -1,69 +1,66 @@
-# Casa Esperança - Site Oficial
+# 🏠 Casa Esperança — Protótipo de Site Institucional
 
-Bem-vindo ao repositório do site oficial da **Casa Esperança**, uma organização não governamental (ONG) dedicada a transformar vidas através da educação e capacitação em Campinas/SP.
+> Reconstrução estática de uma versão de testes de um site institucional anteriormente administrado em WordPress.
 
-## 🏠 Visão Geral
+## 📌 Contexto
 
-Este projeto consiste no desenvolvimento de um site informativo para a Casa Esperança, com o objetivo de divulgar nossas atividades, oficinas, valores e promover transparência em relação aos nossos projetos e financiamentos.
+Este repositório registra uma tentativa de criar uma versão independente para testes e desenvolvimento. A dificuldade principal do projeto original era a dependência da estrutura e do ambiente do WordPress.
 
-## 📖 Índice
+A versão atual foi reorganizada como um projeto estático para facilitar:
 
-- [Visão Geral](#-visão-geral)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Instalação](#-instalação)
-- [Uso](#-uso)
-- [Como Contribuir](#-como-contribuir)
-- [Licença](#-licença)
-- [Contato](#-contato)
-- [Agradecimentos](#-agradecimentos)
+- estudo de HTML, CSS e JavaScript;
+- testes locais;
+- evolução incremental;
+- demonstração em portfólio;
+- futura publicação em hospedagem estática.
 
-## 🚀 Tecnologias Utilizadas
+> **Observação:** este repositório é um protótipo demonstrativo e não deve ser interpretado como o site oficial atual da instituição.
 
-- **HTML5**: Estrutura e conteúdo das páginas.
-- **CSS3**: Estilização e layout responsivo.
-- **JavaScript**: Funcionalidades interativas (planejado para futuras implementações).
+## 🛠️ Tecnologias
 
-## 🗂️ Estrutura do Projeto
+- HTML5
+- CSS3
+- JavaScript
 
+## 🗂️ Estrutura
+
+```text
 casa-esperanca-site/
 ├── index.html
 ├── about.html
 ├── contact.html
 ├── css/
-│   ├── styles.css
-│   ├── reset.css
-│   └── (outros arquivos CSS se necessário)
+│   └── styles.css
 ├── js/
-│   ├── main.js
-│   └── (outros arquivos JS se necessário)
-├── assets/
-│   ├── images/
-│   │   ├── logo.png
-│   │   ├── banner.jpg
-│   │   └── (demais imagens)
-│   ├── documents/
-│   │   ├── estatuto.pdf
-│   │   ├── relatorio_financeiro.pdf
-│   │   └── termo_colaboracao.pdf
-│   └── fonts/
-│       └── (arquivos de fontes)
+│   └── main.js
 ├── components/
-│   ├── header.html
-│   ├── footer.html
-│   ├── navbar.html
-│   └── (outros componentes reutilizáveis)
-├── README.md
-├── LICENSE
-└── .gitignore
+│   └── footer.html
+└── README.md
+```
 
-## 🖥️ Instalação
+## ▶️ Como executar
 
-Para executar o site localmente em sua máquina, siga os passos abaixo:
+Clone o repositório:
 
-1. **Clone o repositório:**
+```bash
+git clone https://github.com/sayjinblackbelt/casa-esperanca-site.git
+```
 
-   ```bash
-   git clone https://github.com/seu-usuario/casa-esperanca-site.git
+Depois, abra `index.html` no navegador ou utilize uma extensão como **Live Server** no VS Code.
 
+## 🚧 Evolução planejada
 
+- [x] Remover dependências de SSI.
+- [x] Criar layout estático funcional.
+- [x] Adicionar CSS responsivo.
+- [x] Adicionar interação JavaScript básica.
+- [ ] Revisar conteúdo institucional com informações autorizadas.
+- [ ] Adicionar imagens próprias ou autorizadas.
+- [ ] Melhorar acessibilidade.
+- [ ] Publicar versão demonstrativa.
+
+## 👨‍💻 Autor
+
+**Filipe Gimenes de Morais**
+
+Projeto preservado e reorganizado como registro de aprendizagem em desenvolvimento web, administração de conteúdo e reconstrução de interfaces.
